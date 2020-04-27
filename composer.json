@@ -1,0 +1,13 @@
+{
+    "name": "zyqvalidate/mobile",
+    "description": "校验手机号格式",
+    "type": "library",
+    "authors": [
+        {
+            "name": "张勇奇",
+            "email": "zhangyongqi@zhangyongqideMacBook-Air.local"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

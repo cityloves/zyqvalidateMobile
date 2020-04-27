@@ -2,12 +2,18 @@
     "name": "zyqvalidate/mobile",
     "description": "校验手机号格式",
     "type": "library",
-    "authors": [
-        {
-            "name": "张勇奇",
-            "email": "zhangyongqi@zhangyongqideMacBook-Air.local"
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Validator\\": "src/"
         }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
 }

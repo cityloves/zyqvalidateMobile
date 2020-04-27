@@ -2,6 +2,7 @@
     "name": "zyqvalidate/mobile",
     "description": "校验手机号格式",
     "type": "library",
+    "version": "1.0.0",
     "minimum-stability": "stable",
     "version": "1.0.0",
     "license": "proprietary",

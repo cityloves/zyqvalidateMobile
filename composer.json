@@ -2,9 +2,8 @@
     "name": "zyqvalidate/mobile",
     "description": "zyqvalidate/mobile",
     "type": "library",
-    "version": "1.0.1",
     "minimum-stability": "stable",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "proprietary",
     "autoload": {
         "psr-4": {

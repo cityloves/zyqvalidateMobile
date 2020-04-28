@@ -1,8 +1,8 @@
 {
     "name": "zyqvalidate/mobile",
-    "description": "校验手机号格式",
+    "description": "zyqvalidate/mobile",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimum-stability": "stable",
     "version": "1.0.0",
     "license": "proprietary",
